@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const gifList = [
     "gif/cry.gif",
     "gif/run.gif",
-    "gif/sad.gif",
+    "gif/Sad.gif",
     "gif/sadd.gif",
   ];
    let currentGifIndex = 0;
